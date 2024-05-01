@@ -1,6 +1,9 @@
 # CleanMonkey
+
 A modification to Tampermonkey
+
 Warning: this is an unofficial version of Tampermonkey!
+
 Please check it for malware before loading this unpacked browser extension, because this version was re-packaged!
 Tested in Developer mode of: Version 123.0.6312.90 (Official Build, ungoogled-chromium) (64-bit)
 Unpacked from: https://data.tampermonkey.net/tampermonkey_beta.crx

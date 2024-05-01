@@ -19,6 +19,6 @@ Unpacked with Ubuntu Mint archive manager, replaced all images with 1x1 pixel pn
 
 I make a lot of scripts so I required a notepad-like screen without accidentally clicking facebook links and various other elements.
 
-Includes a script for Stumblechat.com to directly read the websocket chat log
+Includes my script for Stumblechat.com to directly read the websocket chat log
 
 https://greasyfork.org/en/users/1240545-gene-m-gonzales

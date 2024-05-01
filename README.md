@@ -2,9 +2,9 @@
 
 A modification to Tampermonkey
 
-## Warning: this is an unofficial version of Tampermonkey!
+### Warning: this is an unofficial version of Tampermonkey!
 
-# Please check it for malware before loading this unpacked browser extension, because this version was re-packaged!
+### Please check it for malware before loading this unpacked browser extension, because this version was re-packaged!
 
 
 

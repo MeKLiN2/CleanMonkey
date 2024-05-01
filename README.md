@@ -11,10 +11,10 @@ A modification to Tampermonkey
 Tested in Developer mode of: Version 123.0.6312.90 (Official Build, ungoogled-chromium) (64-bit)
 
 
-Unpacked from: https://data.tampermonkey.net/tampermonkey_beta.crx
+Source: https://data.tampermonkey.net/tampermonkey_beta.crx
 
 
-with Ubuntu Mint archive manager, replaced all images with 1x1 pixel png, heavily modified style.css included original.
+Unpacked with Ubuntu Mint archive manager, replaced all images with 1x1 pixel png, heavily modified style.css included original.
 
 
 I make a lot of scripts so I required a notepad-like screen without accidentally clicking facebook links and various other elements.

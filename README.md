@@ -20,3 +20,5 @@ I make a lot of scripts so I required a notepad-like screen without accidentally
 Includes my script for Stumblechat.com to directly read the websocket chat log
 
 https://greasyfork.org/en/users/1240545-gene-m-gonzales
+
+the menu really should be fully done away with as CTRL + S is all you need to save. if your script doesnt work, click the invisible 'on' button which doesnt change if enabled or disabled
